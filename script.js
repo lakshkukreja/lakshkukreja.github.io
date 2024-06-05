@@ -144,7 +144,7 @@ publisher: "© 2020 The Weeknd XO, Inc. ℗ 2020 The Weeknd XO, Inc"
 
 {
 cover: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/my_dear_melancholy/00-album_cover.jpg",
-name: "My Dear Melancholy",
+name: "My Dear Melancholy,",
 artist: "The Weeknd",
 releaseDate: "30-03-2018",
 quality: "(CD) 16-Bit/44.1 kHz",
@@ -283,7 +283,7 @@ publisher: " © 2024 Universal Music India Pvt. Ltd."
 ];
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //	
 
-document.addEventListener('DOMContentLoaded', () => {
+    document.addEventListener('DOMContentLoaded', () => {
     const artistList = document.getElementById('artistList');
     const albumList = document.getElementById('albumList');
     const trackList = document.getElementById('trackList');
@@ -296,6 +296,7 @@ document.addEventListener('DOMContentLoaded', () => {
     let currentTrackIndex = 0;
     let isPlaying = false;
     let currentAlbumIndex = 0;
+    let currentAlbum;
     let audio = new Audio();
 
     artists.forEach((artist) => {
@@ -307,14 +308,10 @@ document.addEventListener('DOMContentLoaded', () => {
         artistList.appendChild(artistItem);
     });
 
-// PLACEHOLDER STRING - DATA SAVED ABOVE THE FUNCTION
-// <img src="${album.cover}" alt="${album.name}"> 
-// Removes the album name showed as an alt src, now displays the text "Display Album Cover" only.
-
     function displayAlbums(albums) {
         albumList.innerHTML = '';
         trackList.innerHTML = '';
-        albums.forEach(album => {
+        albums.forEach((album, index) => {
             const albumItem = document.createElement('div');
             albumItem.className = 'album';
             albumItem.innerHTML = `
@@ -322,11 +319,12 @@ document.addEventListener('DOMContentLoaded', () => {
                 <h3>${album.name}</h3>
                 <p>${album.artist}</p>
                 <p>Release Date: ${album.releaseDate}</p>
-		<p>Quality: ${album.quality}</p>
+                <p>Quality: ${album.quality}</p>
                 <p>Tracks: ${album.tracks.length}</p>
                 <p>Publisher: ${album.publisher}</p>
             `;
             albumItem.addEventListener('click', () => {
+                currentAlbumIndex = index;
                 displayTracks(album);
             });
             albumList.appendChild(albumItem);
@@ -335,13 +333,14 @@ document.addEventListener('DOMContentLoaded', () => {
 
     function displayTracks(album) {
         currentAlbum = album;
+        currentTrackIndex = 0;
         trackList.innerHTML = '';
         album.tracks.forEach((track, index) => {
             const trackItem = document.createElement('li');
             trackItem.textContent = track.name;
             trackItem.addEventListener('click', () => {
                 currentTrackIndex = index;
-                loadTrack(currentAlbum.tracks[currentTrackIndex]);
+                loadTrack(track);
             });
             trackList.appendChild(trackItem);
         });
@@ -354,21 +353,21 @@ document.addEventListener('DOMContentLoaded', () => {
         audio.src = track.src;
         audio.play();
         isPlaying = true;
-	playPauseImg.src = 'https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/assets/pause.png';
+        playPauseImg.src = 'https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/assets/pause.png';
     }
 
     audio.addEventListener('ended', () => {
-    currentTrackIndex++;
-    if (currentTrackIndex >= artists[0].albums[currentAlbumIndex].tracks.length) {
-        currentTrackIndex = 0;
-      }
-    loadTrack(currentAlbumIndex, currentTrackIndex);
-       });
-	
+        currentTrackIndex++;
+        if (currentTrackIndex >= currentAlbum.tracks.length) {
+            currentTrackIndex = 0;
+        }
+        loadTrack(currentAlbum.tracks[currentTrackIndex]);
+    });
+
     playPauseBtn.addEventListener('click', () => {
         if (isPlaying) {
             audio.pause();
-	    playPauseImg.src = 'https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/assets/play.png';
+            playPauseImg.src = 'https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/assets/play.png';
         } else {
             audio.play();
             playPauseImg.src = 'https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/assets/pause.png';
