@@ -1,0 +1,114 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    margin-bottom: 70px; /* Add a buffer space for the player at the bottom */
+}
+
+.sidebar {
+    width: 20%;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+.sidebar h2 {
+    margin-top: 0;
+}
+
+#artistList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#artistList li {
+    padding: 10px;
+    cursor: pointer;
+}
+
+#artistList li:hover {
+    background-color: #ddd;
+}
+
+.content {
+    width: 80%;
+    padding: 20px;
+}
+
+.album-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.album {
+    flex: 1 0 21%;
+    box-sizing: border-box;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: center;
+    cursor: pointer;
+}
+
+.album img {
+    max-width: 100%;
+    height: auto;
+}
+
+.track-list-container {
+    margin-top: 20px;
+}
+
+#trackList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#trackList li {
+    padding: 10px;
+    border-bottom: 1px solid #ccc;
+    cursor: pointer;
+}
+
+#trackList li:hover {
+    background-color: #f4f4f4;
+}
+
+.player {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    height: 60px; /* Reduce height of the player */
+}
+
+.album-cover {
+    width: 40px; /* Adjusted to fit the reduced player height */
+    height: 40px;
+    margin-right: 20px;
+}
+
+button {
+    margin: 0 10px;
+    padding: 10px;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #777;
+}
+
+button img {
+    max-width: 15px;
+    max-height: 15px;
+}
