@@ -86,6 +86,42 @@ tracks: [
 publisher: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
 },
 
+ // Album - Dawn FM (Alternate World)
+{
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/00-album_cover.jpg",
+name: "Dawn FM",
+artist: "The Weeknd",
+releaseDate: "07-01-2022",
+quality: "(Hi-Res) 24-Bit/48 kHz",
+tracks: [
+{ name: "01. Dawn FM", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/01-dawn_fm.flac" },
+{ name: "02. Gasoline", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/02-gasoline.flac" },
+{ name: "03. How Do I Make You Love Me?", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/03-how_do_i_make_you_love_me.flac" },
+{ name: "04. Take My Breath", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/04-take_my_breath.flac" },
+{ name: "05. Sacrifice", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/05-sacrifice.flac" },
+{ name: "06. A Tale By Quincy", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/06-a_tale_by_quincy.flac" },
+{ name: "07. Out Of Time", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/07-out_of_time.flac" },
+{ name: "08. Here We Go... Again (feat. Tyler, The Creator)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/08-here_we_go_again.flac" },
+{ name: "09. Best Friends", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/09-best_friends-the_weeknd.flac" },
+{ name: "10. Is There Someone Else?", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/10-is_there_someone_else.flac" },
+{ name: "11. Starry Eyes", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/11-starry_eyes.flac" },
+{ name: "12. Every Angel Is Terrifying", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/12-every_angel_is_terrifying.flac" },
+{ name: "13. Don't Break My Heart", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/13-dont_break_my_heart.flac" },
+{ name: "14. I Heard You're Married (feat. Lil Wayne)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/14-i_heard_youre_married.flac" },
+{ name: "15. Less Than Zero", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/15-less_than_zero.flac" },
+{ name: "16. Phantom Regret By Jim", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/16-phantom_regret_by_jim.flac" },
+{ name: "17. Moth To A Flame", src: "" },
+{ name: "18. Dawn FM - OPN Remix", src: "" },
+{ name: "19. How Do I Make You Love Me? - Remix", src: "" },
+{ name: "20. Sacrifice Remix", src: "" },
+{ name: "21. Out of Time - KAYTRANADA Remix", src: "" },
+{ name: "22. Best Friends Remix", src: "" },
+{ name: "23. Starry Eyes - MIKE DEAN Remix", src: "" },
+{ name: "24. Take My Breath - Single Version", src: "" }
+],
+publisher: "© 2022 The Weeknd XO, Inc. ℗ 2022 The Weeknd XO, Inc."
+},
+
 	// Album - Dawn FM
 {
 cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm/00-album_cover-the_weeknd.jpg",
