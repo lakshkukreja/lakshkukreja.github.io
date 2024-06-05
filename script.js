@@ -292,10 +292,11 @@ publisher: " © 2024 Universal Music India Pvt. Ltd."
     const artistName = document.getElementById('artistName');
     const playPauseBtn = document.getElementById('playPauseBtn');
     const playPauseImg = document.getElementById('playPauseImg');
+    const prevBtn = document.getElementById('prevBtn');
+    const nextBtn = document.getElementById('nextBtn');
 
     let currentTrackIndex = 0;
     let isPlaying = false;
-    let currentAlbumIndex = 0;
     let currentAlbum;
     let audio = new Audio();
 
@@ -324,7 +325,6 @@ publisher: " © 2024 Universal Music India Pvt. Ltd."
                 <p>Publisher: ${album.publisher}</p>
             `;
             albumItem.addEventListener('click', () => {
-                currentAlbumIndex = index;
                 displayTracks(album);
             });
             albumList.appendChild(albumItem);
@@ -357,12 +357,18 @@ publisher: " © 2024 Universal Music India Pvt. Ltd."
     }
 
     audio.addEventListener('ended', () => {
-        currentTrackIndex++;
-        if (currentTrackIndex >= currentAlbum.tracks.length) {
-            currentTrackIndex = 0;
-        }
-        loadTrack(currentAlbum.tracks[currentTrackIndex]);
+        nextTrack();
     });
+
+    function nextTrack() {
+        currentTrackIndex = (currentTrackIndex + 1) % currentAlbum.tracks.length;
+        loadTrack(currentAlbum.tracks[currentTrackIndex]);
+    }
+
+    function prevTrack() {
+        currentTrackIndex = (currentTrackIndex - 1 + currentAlbum.tracks.length) % currentAlbum.tracks.length;
+        loadTrack(currentAlbum.tracks[currentTrackIndex]);
+    }
 
     playPauseBtn.addEventListener('click', () => {
         if (isPlaying) {
@@ -375,17 +381,11 @@ publisher: " © 2024 Universal Music India Pvt. Ltd."
         isPlaying = !isPlaying;
     });
 
-    document.getElementById('prevBtn').addEventListener('click', () => {
-        if (currentTrackIndex > 0) {
-            currentTrackIndex--;
-            loadTrack(currentAlbum.tracks[currentTrackIndex]);
-        }
+    prevBtn.addEventListener('click', () => {
+        prevTrack();
     });
 
-    document.getElementById('nextBtn').addEventListener('click', () => {
-        if (currentTrackIndex < currentAlbum.tracks.length - 1) {
-            currentTrackIndex++;
-            loadTrack(currentAlbum.tracks[currentTrackIndex]);
-        }
+    nextBtn.addEventListener('click', () => {
+        nextTrack();
     });
 });
