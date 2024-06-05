@@ -283,6 +283,10 @@ publisher: " © 2024 Universal Music India Pvt. Ltd."
 ];
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //	
 
+// Modified One Element - Create A Placeholder Notice
+//    <img src="${album.cover}" alt="${album.name}"> 
+// Removes the album name showed as an alt src, now displays the text "Display Album Cover" only.
+
     document.addEventListener('DOMContentLoaded', () => {
     const artistList = document.getElementById('artistList');
     const albumList = document.getElementById('albumList');
