@@ -224,18 +224,33 @@ publisher: " © 2013 The Weeknd XO, Inc. ℗ 2013 The Weeknd XO, Inc."
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //	
 
 {
-name: "Mike Dean",
+name: "Badshah",
 albums: [
 {
-cover: "",
-name: "",
-artist: "Mike Dean",
-releaseDate: '2021-01-01',
+cover: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/00-album_cover.jpg",
+name: "Ek Tha Raja",
+artist: "Badshah",
+releaseDate: '18-03-2024',
+quality: "(CD) 16-Bit/44.1 kHz",
 tracks: [
-{ name: "01. ", src: "" },
-{ name: "02. ", src: "" }
+{ name: "01. God Damn", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/01-god_damn.flac" },
+{ name: "02. O' Sajna", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/02-o_sajna.flac" },
+{ name: "03. Like A Snake", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/03-like_a_snake.flac" },
+{ name: "04. Bajenge", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/04-bajenge.flac" },
+{ name: "05. Hola At Your Boy", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/05-hola_at_your_boy.flac" },
+{ name: "06. Surma", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/06-surma.flac" },
+{ name: "07. Red And Blue", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/07-red_and_blue.flac" },
+{ name: "08. Drinks On Me", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/08-drinks_on_me.flac" },
+{ name: "09. Soulmate", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/09-soulmate.flac" },
+{ name: "10. Body On Me", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/10-body_on_me.flac" },
+{ name: "11. AMG", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/11-amg.flac" },
+{ name: "12. Naraaz", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/12-naraaz.flac" },
+{ name: "13. Kalashnikova", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/13-kalashnikova.flac" },
+{ name: "14. Alag Hai", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/14-alag_hai.flac" },
+{ name: "15. Daaku", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/15-daaku.flac" },
+{ name: "16. G-Yaan", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/badshah/ek_tha_raja/16-g_yaan.flac" }
 ],
-publisher: ""
+publisher: " © 2024 Universal Music India Pvt. Ltd."
 },
 // PLACEHOLDER - Add New Album & Songs Below
 	
@@ -284,7 +299,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const albumItem = document.createElement('div');
             albumItem.className = 'album';
             albumItem.innerHTML = `
-                <img src="${album.cover}" alt="Display Album Cover">
+                <img src="${album.cover}" alt="Album Cover">
                 <h3>${album.name}</h3>
                 <p>${album.artist}</p>
                 <p>Release Date: ${album.releaseDate}</p>
