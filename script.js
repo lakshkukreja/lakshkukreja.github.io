@@ -273,6 +273,10 @@ document.addEventListener('DOMContentLoaded', () => {
         artistList.appendChild(artistItem);
     });
 
+// PLACEHOLDER STRING - DATA SAVED ABOVE THE FUNCTION
+// <img src="${album.cover}" alt="${album.name}"> 
+// Removes the album name showed as an alt src, now displays the text "Display Album Cover" only.
+
     function displayAlbums(albums) {
         albumList.innerHTML = '';
         trackList.innerHTML = '';
@@ -280,7 +284,7 @@ document.addEventListener('DOMContentLoaded', () => {
             const albumItem = document.createElement('div');
             albumItem.className = 'album';
             albumItem.innerHTML = `
-                <img src="${album.cover}" alt="${album.name}">
+                <img src="${album.cover}" alt="Display Album Cover">
                 <h3>${album.name}</h3>
                 <p>${album.artist}</p>
                 <p>Release Date: ${album.releaseDate}</p>
