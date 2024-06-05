@@ -144,7 +144,7 @@ publisher: "© 2020 The Weeknd XO, Inc. ℗ 2020 The Weeknd XO, Inc"
 
 {
 cover: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/my_dear_melancholy/00-album_cover.jpg",
-name: "My Dear Melancholy,",
+name: "My Dear Melancholy",
 artist: "The Weeknd",
 releaseDate: "30-03-2018",
 quality: "(CD) 16-Bit/44.1 kHz",
