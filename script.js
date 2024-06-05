@@ -280,7 +280,8 @@ document.addEventListener('DOMContentLoaded', () => {
             const albumItem = document.createElement('div');
             albumItem.className = 'album';
             albumItem.innerHTML = `
-                <img src="${album.cover}" alt="${album.name}">
+	     // <img src="${album.cover}" alt="${album.name}"> - String Placeholded because of lack of space in UI - display alt name //
+                <img src="${album.cover}" alt="Display Album Cover">
                 <h3>${album.name}</h3>
                 <p>${album.artist}</p>
                 <p>Release Date: ${album.releaseDate}</p>
