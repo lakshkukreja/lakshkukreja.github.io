@@ -140,6 +140,25 @@ tracks: [
 publisher: "© 2020 The Weeknd XO, Inc. ℗ 2020 The Weeknd XO, Inc"
 },
 
+	// Album - My Dear Melancholy,
+
+{
+cover: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/my_dear_melancholy/00-album_cover.jpg",
+name: "My Dear Melancholy,",
+artist: "The Weeknd",
+releaseDate: "30-03-2018",
+quality: "(CD) 16-Bit/44.1 kHz",
+tracks: [  
+{ name: "01. Call Out My Name", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/my_dear_melancholy/01-call_out_my_name.flac" },
+{ name: "02. Try Me", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/my_dear_melancholy/02-try_me.flac" },
+{ name: "03. Wasted Times", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/my_dear_melancholy/03-wasted_times.flac" },
+{ name: "04. I Was Never There", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/my_dear_melancholy/04-i_was_never_there.flac" },
+{ name: "05. Hurt You", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/my_dear_melancholy/05-hurt_you.flac" },
+{ name: "06. Privilege", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/my_dear_melancholy/06-privilege.flac" }
+],
+publisher: " © 2018 The Weeknd XO, Inc. ℗ 2018 The Weeknd XO, Inc."
+},
+	
 	// Album - Starboy
 {
 cover: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/starboy/00-album_cover-the_weeknd.jpg",
@@ -167,7 +186,7 @@ tracks: [
 { name: "17. Die For You", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/starboy/17-die_for_you-the_weeknd.flac" },
 { name: "18. I Feel It Coming (feat. Daft Punk)", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/music/artists/the_weeknd/starboy/18-i_feel_it_coming-the_weeknd.flac" }
 ],
-publisher: "© 2016 The Weeknd XO, Inc. ℗ 2020 The Weeknd XO, Inc"
+publisher: "© 2016 The Weeknd XO, Inc. ℗ 2016 The Weeknd XO, Inc"
 },
 
 	// Album - Beauty Behind The Madness	
