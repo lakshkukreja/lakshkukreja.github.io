@@ -1,23 +1,11 @@
 # Please Refer The Text Below To Add New Songs To The File "script.js" In The Repository More Efficiently!
 
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 {
-// Artist - Name
-name: "The Weeknd",
-albums: [
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //\
 
-// Album - Name
-{
-cover: "",
 name: "",
-artist: "",
-releaseDate: "",
-quality: "() -Bit/ kHz || (.flac)",
-tracks: [
-{ name: "", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/" },
-{ name: "", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/" }
-],
-label: ""
-},
+albums: [
 
 // Album - Name
 {
