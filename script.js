@@ -116,14 +116,14 @@ tracks: [
 { name: "14. I Heard You're Married (feat. Lil Wayne)      ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/14-i_heard_youre_married.flac" },
 { name: "15. Less Than Zero                                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/15-less_than_zero.flac" },
 { name: "16. Phantom Regret By Jim                         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/16-phantom_regret_by_jim.flac" },
-{ name: "17. Moth To A Flame                               ", src: "" },
-{ name: "18. Dawn FM - OPN Remix                           ", src: "" },
-{ name: "19. How Do I Make You Love Me? - Remix            ", src: "" },
-{ name: "20. Sacrifice Remix                               ", src: "" },
-{ name: "21. Out of Time - KAYTRANADA Remix                ", src: "" },
-{ name: "22. Best Friends Remix                            ", src: "" },
-{ name: "23. Starry Eyes - MIKE DEAN Remix                 ", src: "" },
-{ name: "24. Take My Breath - Single Version               ", src: "" }
+{ name: "17. Moth To A Flame                               ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/17-moth_to_a_flame.flac" },
+{ name: "18. Dawn FM - OPN Remix                           ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/18-dawn_fm_opn_remix.flac" },
+{ name: "19. How Do I Make You Love Me? - Remix            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/19-how_do_i_make_you_love_me_remix.flac" },
+{ name: "20. Sacrifice Remix                               ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/20-sacrifice_remix.flac" },
+{ name: "21. Out of Time - KAYTRANADA Remix                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/21-out_of_time_kaytranada_remix.flac" },
+{ name: "22. Best Friends Remix                            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/22-best_friends_remix.flac" },
+{ name: "23. Starry Eyes - MIKE DEAN Remix                 ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/23-starry_eyes_mike_dean_remix.flac" },
+{ name: "24. Take My Breath - Single Version               ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/24-take_my_breath_single_version.flac" }
 ],
 label: "© 2022 The Weeknd XO, Inc. ℗ 2022 The Weeknd XO, Inc."
 },
@@ -279,6 +279,48 @@ tracks: [
 label: " © 2013 The Weeknd XO, Inc. ℗ 2013 The Weeknd XO, Inc."
 },
 
+	// Album - Thursday (Original) 
+{
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original",
+name: "Thursday (Original)",
+artist: "The Weeknd",
+releaseDate: "18-08-2011",
+quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Lonely Star        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/01-lonely_star.flac" },
+{ name: "02. Life Of The Party  ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/02-life_of_the_party.flac" },
+{ name: "03. Thursday           ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/03-thursday.flac" },
+{ name: "04. The Zone           ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/04-the_zone.flac" },
+{ name: "05. The Birds Pt. 1    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/05-the_birds_pt_1.flac" },
+{ name: "06. The Birds Pt. 2    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/06-the_birds_pt_2.flac" },
+{ name: "07. Gone               ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/07-gone.flac" },
+{ name: "08. Rolling Stone      ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/08-rolling_stone.flac" },
+{ name: "09. Heaven Or Las Vegas", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/09-heaven_or_las_vegas.flac" }
+],
+label: " © 2011 The Weeknd XO, Inc. ℗ 2011 The Weeknd XO, Inc."
+},
+	
+	// Album - Thursday (Original) 
+{
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/00-album_cover.jpg",
+name: "Thursday (Original)",
+artist: "The Weeknd",
+releaseDate: "18-08-2011",
+quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Lonely Star        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/01-lonely_star.flac" },
+{ name: "02. Life Of The Party  ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/02-life_of_the_party.flac" },
+{ name: "03. Thursday           ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/03-thursday.flac" },
+{ name: "04. The Zone           ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/04-the_zone.flac" },
+{ name: "05. The Birds Pt. 1    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/05-the_birds_pt_1.flac" },
+{ name: "06. The Birds Pt. 2    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/06-the_birds_pt_2.flac" },
+{ name: "07. Gone               ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/07-gone.flac" },
+{ name: "08. Rolling Stone      ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/08-rolling_stone.flac" },
+{ name: "09. Heaven Or Las Vegas", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/09-heaven_or_las_vegas.flac" }
+],
+label: " © 2011 The Weeknd XO, Inc. ℗ 2011 The Weeknd XO, Inc."
+},
+	
 	// Album - House Of Balloons (Original)
 {
 cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/house_of_balloons_original/00-album_cover.jpg",
@@ -287,15 +329,15 @@ artist: "The Weeknd",
 releaseDate: "21-03-2011",
 quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
 tracks: [
-{ name: "01. High For This                        ", src: "" },
-{ name: "02. What You Need                        ", src: "" },
-{ name: "03. House Of Balloons / Glass Table Girls", src: "" },
-{ name: "04. The Morning                          ", src: "" },
-{ name: "05. Wicked Games                         ", src: "" },
-{ name: "06. The Party & The After Party          ", src: "" },
-{ name: "07. Coming Down                          ", src: "" },
-{ name: "08. Loft Music                           ", src: "" },
-{ name: "09. The Knowing                          ", src: "" }
+{ name: "01. High For This                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/house_of_balloons_original/01-high_for_this.flac" },
+{ name: "02. What You Need                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/house_of_balloons_original/02-what_you_need.flac" },
+{ name: "03. House Of Balloons / Glass Table Girls", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/house_of_balloons_original/03-house_of_balloons_glass_table_girls.flac" },
+{ name: "04. The Morning                          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/house_of_balloons_original/04-the_morning.flac" },
+{ name: "05. Wicked Games                         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/house_of_balloons_original/05-wicked_games.flac" },
+{ name: "06. The Party & The After Party          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/house_of_balloons_original/06-the_party_&_the_after_party.flac" },
+{ name: "07. Coming Down                          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/house_of_balloons_original/07-coming_down.flac" },
+{ name: "08. Loft Music                           ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/house_of_balloons_original/08-loft_music.flac" },
+{ name: "09. The Knowing                          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/house_of_balloons_original/09-the_knowing.flac" }
 ],
 label: " © 2011 The Weeknd XO, Inc. ℗ 2011 The Weeknd XO, Inc."
 },
