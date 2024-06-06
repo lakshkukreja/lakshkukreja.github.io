@@ -183,7 +183,7 @@ cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/art
 name: "My Dear Melancholy,",
 artist: "The Weeknd",
 releaseDate: "30-03-2018",
-quality: "(CD) 16-Bit/44.1 kHz",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
 tracks: [  
 { name: "01. Call Out My Name", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/my_dear_melancholy/01-call_out_my_name.flac" },
 { name: "02. Try Me", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/my_dear_melancholy/02-try_me.flac" },
