@@ -95,7 +95,7 @@ label: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
  // Album - Dawn FM (Alternate World)
 {
 cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm_alternate_world/00-album_cover.jpg",
-name: "Dawn FM",
+name: "Dawn FM (Alternate World)",
 artist: "The Weeknd",
 releaseDate: "07-01-2022",
 quality: "(Hi-Res) 24-Bit/48 kHz || (.flac)",
@@ -279,23 +279,48 @@ tracks: [
 label: " © 2013 The Weeknd XO, Inc. ℗ 2013 The Weeknd XO, Inc."
 },
 
-	// Album - Thursday (Original) 
+	// Album - Trilogy
 {
-cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original",
-name: "Thursday (Original)",
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/00-album_cover.jpg",
+name: "Trilogy",
+artist: "",
+releaseDate: "",
+quality: "() -Bit/ kHz || (.flac)",
+tracks: [
+{ name: " - Disc 01 - ", src: "" },
+{ name: "01. ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/" },
+{ name: "02. ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/" },
+{ name: "03. ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/" },
+{ name: "04. ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/" },
+{ name: "05. ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/" },
+{ name: "06.", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/" },
+{ name: "07. ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/" },
+{ name: "08. ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/" },
+{ name: "09. ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/" },
+{ name: "10. ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/" },
+{ name: " - Disc 02 - ", src: "" },
+{ name: " - Disc 03 - ", src: "" },
+],
+label: ""
+},
+	
+	// Album - Echoes Of Silence (Original) 
+{
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/echoes_of_silence_original/00-album_cover.jpg",
+name: "Echoes Of Silence (Original)",
 artist: "The Weeknd",
-releaseDate: "18-08-2011",
+releaseDate: "21-12-2011",
 quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
 tracks: [
-{ name: "01. Lonely Star        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/01-lonely_star.flac" },
-{ name: "02. Life Of The Party  ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/02-life_of_the_party.flac" },
-{ name: "03. Thursday           ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/03-thursday.flac" },
-{ name: "04. The Zone           ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/04-the_zone.flac" },
-{ name: "05. The Birds Pt. 1    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/05-the_birds_pt_1.flac" },
-{ name: "06. The Birds Pt. 2    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/06-the_birds_pt_2.flac" },
-{ name: "07. Gone               ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/07-gone.flac" },
-{ name: "08. Rolling Stone      ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/08-rolling_stone.flac" },
-{ name: "09. Heaven Or Las Vegas", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/thursday_original/09-heaven_or_las_vegas.flac" }
+{ name: "01. D.D.             ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/echoes_of_silence_original/" },
+{ name: "02. Montreal         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/echoes_of_silence_original/" },
+{ name: "03. Outside          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/echoes_of_silence_original/" },
+{ name: "04. XO / The Host    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/echoes_of_silence_original/" },
+{ name: "05. Initiation       ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/echoes_of_silence_original/" },
+{ name: "06. Same Old Song    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/echoes_of_silence_original/" },
+{ name: "07. The Fall         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/echoes_of_silence_original/" },
+{ name: "08. Next             ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/echoes_of_silence_original/" },
+{ name: "09. Echoes Of Silence", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/echoes_of_silence_original/" }
 ],
 label: " © 2011 The Weeknd XO, Inc. ℗ 2011 The Weeknd XO, Inc."
 },
