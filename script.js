@@ -1,6 +1,41 @@
 const artists = [
 
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 {
+name: "Bollywood - Hindi",
+albums: [
+
+// Album - ANIMAL (Original Motion Picture Soundtrack)
+{
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/00-album_cover",
+name: "ANIMAL (Original Motion Picture Soundtrack)",
+artist: "Various Artists",
+releaseDate: "24-11-2023",
+quality: "(Hi-Res) 24-Bit/48 kHz || (.flac)",
+tracks: [
+{ name: "01. Arjan Vailly            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/01-arjan_vailly.flac" },
+{ name: "02. Hua Main                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/02-hua_main.flac" },
+{ name: "03. Satranga                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/03.satranga.flac" },
+{ name: "04. Papa Meri Jaan          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/04-papa_meri_jaan.flac" },
+{ name: "05. Pehle Bhi Main          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/05-pehle_bhi_main.flac" },
+{ name: "06. Kashmir                 ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/06-kashmir.flac" },
+{ name: "07. Saari Duniya Jalaa Denge", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/07-saari_duniya_jalaa_denge.flac" },
+{ name: "08. Haiwaan                 ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/08-haiwaan.flac" }
+],
+label: ""
+},
+
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+]
+},
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
+// - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
+{
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
+
 name: "The Weeknd",
 albums: [
 
@@ -478,7 +513,7 @@ label: " © 2011 The Weeknd XO, Inc. ℗ 2011 The Weeknd XO, Inc."
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 ]
 },
-// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //	
+// - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
 
 {
 name: "Badshah",
