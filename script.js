@@ -156,7 +156,7 @@ tracks: [
 label: "© 2022 The Weeknd XO, Inc. ℗ 2022 The Weeknd XO, Inc."
 },
 
-// Album - One Right Now
+	// Album - One Right Now
 {
 cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/one_right_now/00-album_cover.jpg",
 name: "One Right Now",
@@ -164,9 +164,9 @@ artist: "The Weeknd, Post Malone",
 releaseDate: "5-11-2021",
 quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
 tracks: [
-{ name: "", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/one_right_now/01-one_right_now.flac" }
+{ name: "01. One Right Now (feat. Post Malone)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/one_right_now/01-one_right_now.flac" }
 ],
-label: ""
+label: " © 2021 Republic Records, a division of UMG Recordings, Inc. ℗ 2021 Republic Records, a division of UMG Recordings, Inc."
 },
 	
 	// Album - After Hours
@@ -330,6 +330,19 @@ tracks: [
 { name: "14. Angel                           ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/beauty_behind_the_madness/14-angel-the_weeknd.flac" }
 ],
 label: "© 2015 The Weeknd XO, Inc. ℗ 2015 The Weeknd XO, Inc"
+},
+
+	// Album - Often (Kygo Remix)
+{
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/often_kygo_remix/00-album_cover.jpg",
+name: "Often (Kygo Remix)",
+artist: "The Weeknd",
+releaseDate: "31-07-2014",
+quality: "(CD) 16-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Often (Kygo Remix)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/often_kygo_remix/01-often_kygo_remix.flac" }
+],
+label: " © 2015 The Weeknd XO, Inc. ℗ 2015 The Weeknd XO, Inc."
 },
 
 	// Album - Kiss Land
