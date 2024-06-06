@@ -158,6 +158,35 @@ label: "© 2022 The Weeknd XO, Inc. ℗ 2022 The Weeknd XO, Inc."
 
 	// Album - After Hours
 {
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/00-album_cover.jpg",
+name: "After Hours (Deluxe)",
+artist: "The Weeknd",
+releaseDate: "20-03-2020",
+quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "01. Alone Again‎                   ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/01-alone_again.flac" },
+{ name: "02. Too Late‎                      ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/02-too_late.flac" },
+{ name: "03. Hardest To Love               ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/03-hardest_to_love.flac" },			
+{ name: "04. Scared To Live                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/04-scared_to_live.flac" },
+{ name: "05. Snowchild                     ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/05-snowchild.flac" },
+{ name: "06. Escape From LA                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/06-escape_from_la.flac" },
+{ name: "07. Heartless                     ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/07-heartless.flac" },
+{ name: "08. Faith                         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/08-faith.flac" },
+{ name: "09. Blinding Lights               ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/09-blinding_lights.flac" },
+{ name: "10. In Your Eyes                  ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/10-in_your_eyes.flac" },
+{ name: "11. Save Your Tears               ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/11-save_your_tears.flac" },
+{ name: "12. Repeat After Me (Interlude)   ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/12-repeat_after_me_interlude.flac" },
+{ name: "13. After Hours                   ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/13-after_hours.flac" },
+{ name: "14. Until I Bleed Out             ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/14-until_i_bleed_out.flac" },
+{ name: "15. Nothing Compares (Bonus Track)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/15-nothing_compares.flac" },
+{ name: "16. Missed You (Bonus Track)      ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/16-missed_you.flac" },
+{ name: "17. Final Lullaby (Bonus Track)   ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/17-final_lullaby.flac" }
+],
+label: "© 2020 The Weeknd XO, Inc. ℗ 2020 The Weeknd XO, Inc"
+},
+
+	// Album - After Hours
+{
 cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours/00-album_cover-the_weeknd.jpg",
 name: "After Hours",
 artist: "The Weeknd",
@@ -200,7 +229,40 @@ tracks: [
 ],
 label: " © 2018 The Weeknd XO, Inc. ℗ 2018 The Weeknd XO, Inc."
 },
-	
+
+	// Album - Starboy (Deluxe)
+{
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/00-album_cover.jpg",
+name: "Starboy (Deluxe)",
+artist: "The Weeknd",
+releaseDate: "25-11-2016",
+quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
+tracks: [  
+{ name: "01. Starboy (feat. Daft Punk)              ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/01-starboy.flac" },
+{ name: "02. Party Monster                          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/02-party_monster.flac" },
+{ name: "03. False Alarm                            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/03-false_alarm.flac" },
+{ name: "04. Reminder                               ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/04-reminder.flac" },
+{ name: "05. Rockin'                                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/05-rockin.flac" },
+{ name: "06. Secrets                                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/06-secrets.flac" },
+{ name: "07. True Colors                            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/07-true_colors.flac" },
+{ name: "08. Stargirl Interlude (feat. Lana Del Rey)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/08-stargirl_interlude.flac" },
+{ name: "09. Sidewalks (feat. Kendrick Lamar)       ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/09-sidewalks.flac" },
+{ name: "10. Six Feet Under                         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/10-six_feet_under.flac" },
+{ name: "11. Love To Lay                            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/11-love_to_lay.flac" },
+{ name: "12. A Lonely Night                         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/12-a_lonely_night.flac" },
+{ name: "13. Attention                              ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/13-attention.flac" },
+{ name: "14. Ordinary Life                          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/14-ordinary_life.flac" },
+{ name: "15. Nothing Without You                    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/15-nothing_without_you.flac" },
+{ name: "16. All I Know (feat. Future)              ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/16-all_i_know.flac" },
+{ name: "17. Die For You                            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/17-die_for_you.flac" },
+{ name: "18. I Feel It Coming (feat. Daft Punk)     ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy/18-i_feel_it_coming.flac" },
+{ name: "19. Die For You (Remix)                    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/19-die_for_you_remix.flac" },
+{ name: "20. Starboy (Kygo Remix)                   ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/20-staryboy_kygo_remix.flac" },
+{ name: "21. Reminder (Remix)                       ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/21-reminder_remix.flac" }
+],
+label: "© 2016 The Weeknd XO, Inc. ℗ 2016 The Weeknd XO, Inc"
+},
+
 	// Album - Starboy
 {
 cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy/00-album_cover-the_weeknd.jpg",
