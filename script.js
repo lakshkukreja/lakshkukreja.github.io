@@ -156,6 +156,19 @@ tracks: [
 label: "© 2022 The Weeknd XO, Inc. ℗ 2022 The Weeknd XO, Inc."
 },
 
+// Album - One Right Now
+{
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/one_right_now/00-album_cover.jpg",
+name: "One Right Now",
+artist: "The Weeknd, Post Malone",
+releaseDate: "5-11-2021",
+quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
+tracks: [
+{ name: "", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/one_right_now/01-one_right_now.flac" }
+],
+label: ""
+},
+	
 	// Album - After Hours
 {
 cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours_deluxe/00-album_cover.jpg",
