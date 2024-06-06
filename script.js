@@ -15,7 +15,7 @@ tracks: [
 { name: "02. My Sweet Lord", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_5_part2/02-my_sweet_lord.flac" },
 { name: "03. Crocodile Tears", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_5_part2/03-crocodile_tears.flac" }
 ],
-publisher: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
+label: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
 },
 	
 	// Album - The Idol Episode 5 Part 1
@@ -28,7 +28,7 @@ tracks: [
 { name: "01. Like A God", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_5_part1/01-like_a_god.flac" },
 { name: "02. False Idols", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_5_part1/02-false_idols.flac" }
 ],
-publisher: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
+label: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
 },
 	
 	// Album - The Idol Episode 4
@@ -42,7 +42,7 @@ tracks: [
 { name: "02. Jealous Guy", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_4/02-jealous_guy.flac" },
 { name: "03. Fill The Void", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_4/03-fill_the_void.flac" }
 ],
-publisher: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
+label: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
 },
 	
 	// Album - The Idol Episode 3
@@ -56,7 +56,7 @@ tracks: [
 { name: "02. Take Me Back", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_3/02-take_me_back.flac" },
 { name: "03. Get It B4", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_3/03-get_it_b4.flac" }
 ],
-publisher: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
+label: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
 },
 	
 	// Album - The Idol Episode 2
@@ -70,7 +70,7 @@ tracks: [
 { name: "02. Devil's Paradise", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_2/02-devils_paradise.flac" },
 { name: "03. Double Fantasy (feat. Future)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_2/03-double_fantasy.flac" }
 ],
-publisher: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
+label: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
 },
 
 	// Album - The Idol Episode 1
@@ -83,7 +83,7 @@ tracks: [
 { name: "01. The Lure (Main Theme)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_1/01-world_class_sinner_im_a_freek.flac" },
 { name: "02. World Class Sinner / I'm A Freak", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/the_idol_episode_1/02-the_lure_main_theme.flac" }
 ],
-publisher: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
+label: "© 2023 The Weeknd XO, Inc. ℗ 2023 The Weeknd XO, Inc."
 },
 
  // Album - Dawn FM (Alternate World)
@@ -119,7 +119,7 @@ tracks: [
 { name: "23. Starry Eyes - MIKE DEAN Remix", src: "" },
 { name: "24. Take My Breath - Single Version", src: "" }
 ],
-publisher: "© 2022 The Weeknd XO, Inc. ℗ 2022 The Weeknd XO, Inc."
+label: "© 2022 The Weeknd XO, Inc. ℗ 2022 The Weeknd XO, Inc."
 },
 
 	// Album - Dawn FM
@@ -147,7 +147,7 @@ tracks: [
 { name: "15. Less Than Zero", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm/15-less_than_zero-the_weeknd.flac" },
 { name: "16. Phantom Regret By Jim", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/dawn_fm/16-phantom_regret_by_jim-the_weeknd.flac" }
 ],
-publisher: "© 2022 The Weeknd XO, Inc. ℗ 2022 The Weeknd XO, Inc."
+label: "© 2022 The Weeknd XO, Inc. ℗ 2022 The Weeknd XO, Inc."
 },
 
 	// Album - After Hours
@@ -173,7 +173,7 @@ tracks: [
 { name: "13. After Hours", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours/13-after_hours-the_weeknd.flac" },
 { name: "14. Until I Bleed Out", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/after_hours/14-until_i_bleed_out-the_weeknd.flac" }
 ],
-publisher: "© 2020 The Weeknd XO, Inc. ℗ 2020 The Weeknd XO, Inc"
+label: "© 2020 The Weeknd XO, Inc. ℗ 2020 The Weeknd XO, Inc"
 },
 
 	// Album - My Dear Melancholy,
@@ -192,7 +192,7 @@ tracks: [
 { name: "05. Hurt You", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/my_dear_melancholy/05-hurt_you.flac" },
 { name: "06. Privilege", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/my_dear_melancholy/06-privilege.flac" }
 ],
-publisher: " © 2018 The Weeknd XO, Inc. ℗ 2018 The Weeknd XO, Inc."
+label: " © 2018 The Weeknd XO, Inc. ℗ 2018 The Weeknd XO, Inc."
 },
 	
 	// Album - Starboy
@@ -222,7 +222,7 @@ tracks: [
 { name: "17. Die For You", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy/17-die_for_you-the_weeknd.flac" },
 { name: "18. I Feel It Coming (feat. Daft Punk)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy/18-i_feel_it_coming-the_weeknd.flac" }
 ],
-publisher: "© 2016 The Weeknd XO, Inc. ℗ 2016 The Weeknd XO, Inc"
+label: "© 2016 The Weeknd XO, Inc. ℗ 2016 The Weeknd XO, Inc"
 },
 
 	// Album - Beauty Behind The Madness	
@@ -248,7 +248,7 @@ tracks: [
 { name: "13. Prisoner (feat. Lana Del Rey)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/beauty_behind_the_madness/13-prisoner-the_weeknd.flac" },
 { name: "14. Angel", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/beauty_behind_the_madness/14-angel-the_weeknd.flac" }
 ],
-publisher: "© 2015 The Weeknd XO, Inc. ℗ 2015 The Weeknd XO, Inc"
+label: "© 2015 The Weeknd XO, Inc. ℗ 2015 The Weeknd XO, Inc"
 },
 
 	// Album - Kiss Land
@@ -257,22 +257,43 @@ cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/art
 name: "Kiss Land",
 artist: "The Weeknd",
 releaseDate: "10-09-2013",
-quality: "(CD) 16-Bit/44.1 kHz",
+quality: "(CD) 16-Bit/44.1 kHz || [.flac]",
 tracks: [
-{ name: "01. Professional", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/01-professional-the_weeknd.flac" },
-{ name: "02. The Town", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/02-the_town-the_weeknd.flac" },
-{ name: "03. Adaptation", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/03-adaptation-the_weeknd.flac" },			
-{ name: "04. Love In the Sky", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/04-love_in_the_sky-the_weeknd.flac" },
-{ name: "05. Belong To the World", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/05-belong_to_the_world-the_weeknd.flac" },
+{ name: "01. Professional          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/01-professional-the_weeknd.flac" },
+{ name: "02. The Town              ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/02-the_town-the_weeknd.flac" },
+{ name: "03. Adaptation            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/03-adaptation-the_weeknd.flac" },			
+{ name: "04. Love In the Sky       ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/04-love_in_the_sky-the_weeknd.flac" },
+{ name: "05. Belong To the World   ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/05-belong_to_the_world-the_weeknd.flac" },
 { name: "06. Live For (feat. Drake)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/06-live_for-the_weeknd.flac" },
-{ name: "07. Wanderlust", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/07-wanderlust-the_weeknd.flac" },
-{ name: "08. Kiss Land", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/08-kiss_land-the_weeknd.flac" },
-{ name: "09. Pretty", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/09-pretty-the_weeknd.flac" },
-{ name: "10. Tears In the Rain", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/10-tears_in_the_rain-the_weeknd.flac" }
+{ name: "07. Wanderlust            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/07-wanderlust-the_weeknd.flac" },
+{ name: "08. Kiss Land             ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/08-kiss_land-the_weeknd.flac" },
+{ name: "09. Pretty                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/09-pretty-the_weeknd.flac" },
+{ name: "10. Tears In the Rain     ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/kiss_land/10-tears_in_the_rain-the_weeknd.flac" }
 ],
-publisher: " © 2013 The Weeknd XO, Inc. ℗ 2013 The Weeknd XO, Inc."
+label: " © 2013 The Weeknd XO, Inc. ℗ 2013 The Weeknd XO, Inc."
 },
-	
+
+	// Album - House Of Balloons (Original)
+{
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/house_of_balloons_original/00-album_cover.jpg",
+name: "House Of Balloons (Original)",
+artist: "The Weeknd",
+releaseDate: "21-03-2011",
+quality: "(Hi-Res) 24-Bit/44.1 kHz",
+tracks: [
+{ name: "01. High For This                        ", src: "" },
+{ name: "02. What You Need                        ", src: "" },
+{ name: "03. House Of Balloons / Glass Table Girls", src: "" },
+{ name: "04. The Morning                          ", src: "" },
+{ name: "05. Wicked Games                         ", src: "" },
+{ name: "06. The Party & The After Party          ", src: "" },
+{ name: "07. Coming Down                          ", src: "" },
+{ name: "08. Loft Music                           ", src: "" },
+{ name: "09. The Knowing                          ", src: "" }
+],
+label: " © 2011 The Weeknd XO, Inc. ℗ 2011 The Weeknd XO, Inc."
+},
+
 // - // - // - // - //  DO NOT EDIT BELOW THIS LINE // - // - // - // - //
 ]
 },
@@ -305,7 +326,7 @@ tracks: [
 { name: "15. Daaku", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/badshah/ek_tha_raja/15-daaku.flac" },
 { name: "16. G-Yaan", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/badshah/ek_tha_raja/16-g_yaan.flac" }
 ],
-publisher: " © 2024 Universal Music India Pvt. Ltd."
+label: " © 2024 Universal Music India Pvt. Ltd."
 },
 // PLACEHOLDER - Add New Album & Songs Below
 	
@@ -362,7 +383,7 @@ publisher: " © 2024 Universal Music India Pvt. Ltd."
                 <p>Release Date: ${album.releaseDate}</p>
                 <p>Quality: ${album.quality}</p>
                 <p>Tracks: ${album.tracks.length}</p>
-                <p>Publisher: ${album.publisher}</p>
+                <p>Label: ${album.label}</p>
             `;
             albumItem.addEventListener('click', () => {
                 displayTracks(album);
