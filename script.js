@@ -15,7 +15,7 @@ quality: "(Hi-Res) 24-Bit/48 kHz || (.flac)",
 tracks: [
 { name: "01. Arjan Vailly                                    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/01-arjan_vailly.flac" },
 { name: "02. Hua Main                                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/02-hua_main.flac" },
-{ name: "03. Satranga                                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/03.satranga.flac" },
+{ name: "03. Satranga                                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/03-satranga.flac" },
 { name: "04. Papa Meri Jaan                                  ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/04-papa_meri_jaan.flac" },
 { name: "05. Pehle Bhi Main                                  ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/05-pehle_bhi_main.flac" },
 { name: "06. Kashmir                                         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/06-kashmir.flac" },
