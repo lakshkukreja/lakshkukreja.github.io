@@ -7,22 +7,31 @@ albums: [
 
 // Album - ANIMAL (Original Motion Picture Soundtrack)
 {
-cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/00-album_cover",
+cover: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/00-album_cover.jpg",
 name: "ANIMAL (Original Motion Picture Soundtrack)",
 artist: "Various Artists",
-releaseDate: "24-11-2023",
+releaseDate: "23-01-2024",
 quality: "(Hi-Res) 24-Bit/48 kHz || (.flac)",
 tracks: [
-{ name: "01. Arjan Vailly            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/01-arjan_vailly.flac" },
-{ name: "02. Hua Main                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/02-hua_main.flac" },
-{ name: "03. Satranga                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/03.satranga.flac" },
-{ name: "04. Papa Meri Jaan          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/04-papa_meri_jaan.flac" },
-{ name: "05. Pehle Bhi Main          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/05-pehle_bhi_main.flac" },
-{ name: "06. Kashmir                 ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/06-kashmir.flac" },
-{ name: "07. Saari Duniya Jalaa Denge", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/07-saari_duniya_jalaa_denge.flac" },
-{ name: "08. Haiwaan                 ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal/08-haiwaan.flac" }
+{ name: "01. Arjan Vailly                                    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/01-arjan_vailly.flac" },
+{ name: "02. Hua Main                                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/02-hua_main.flac" },
+{ name: "03. Satranga                                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/03.satranga.flac" },
+{ name: "04. Papa Meri Jaan                                  ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/04-papa_meri_jaan.flac" },
+{ name: "05. Pehle Bhi Main                                  ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/05-pehle_bhi_main.flac" },
+{ name: "06. Kashmir                                         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/06-kashmir.flac" },
+{ name: "07. Saari Duniya Jalaa Denge                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/07-saari_duniya_jalaa_denge.flac" },
+{ name: "08. Haiwaan                                         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/08-haiwaan.flac" },
+{ name: "09. Papa Meri Jaan (Child's Version)                ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/08-haiwaan.flac" },
+{ name: "10. Ranvijay's Entry Medley                         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/08-haiwaan.flac" },
+{ name: "11. Abrar's Entry Jamal Kudu                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/08-haiwaan.flac" },
+{ name: "12. Bhaavein Jaane Ya Na Jaane                      ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/08-haiwaan.flac" },
+{ name: "13. Marham (Pehle Bhi Main)                         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/08-haiwaan.flac" },
+{ name: "14. Satranga (Stripped)                             ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/08-haiwaan.flac" },
+{ name: "15. Urdu Ke Jaisa Ishq (Kashmir)                    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/08-haiwaan.flac" },
+{ name: "16. Saari Duniya Jalaa Denge (Extended Film Version)", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/08-haiwaan.flac" },
+{ name: "17. Papa Meri Jaan (Whistle)                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/albums/bollywood_hindi/animal_deluxe_edition/08-haiwaan.flac" }
 ],
-label: ""
+label: " © 2024 Super Cassettes Industries Private Limited"
 },
 
 // - // - // - // - //  DO NOT EDIT ABOVE THIS LINE // - // - // - // - //
@@ -303,7 +312,7 @@ tracks: [
 { name: "15. Nothing Without You                    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/15-nothing_without_you.flac" },
 { name: "16. All I Know (feat. Future)              ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/16-all_i_know.flac" },
 { name: "17. Die For You                            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/17-die_for_you.flac" },
-{ name: "18. I Feel It Coming (feat. Daft Punk)     ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy/18-i_feel_it_coming.flac" },
+{ name: "18. I Feel It Coming (feat. Daft Punk)     ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/18-i_feel_it_coming.flac" },
 { name: "19. Die For You (Remix)                    ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/19-die_for_you_remix.flac" },
 { name: "20. Starboy (Kygo Remix)                   ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/20-staryboy_kygo_remix.flac" },
 { name: "21. Reminder (Remix)                       ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/starboy_deluxe/21-reminder_remix.flac" }
