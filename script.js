@@ -410,7 +410,7 @@ artist: "The Weeknd",
 releaseDate: "08-11-2012",
 quality: "(Hi-Res) 24-Bit/44.1 kHz || (.flac)",
 tracks: [
-{ name: " - Disc 01 - ", src: "" },
+{ name: "    >  Disc 01  <", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/assets/beep.wav" },
 { name: "01. High For This                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/01-high_for_this.flac" },
 { name: "02. What You Need                        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/02-what_you_need.flac" },
 { name: "03. House Of Balloons / Glass Table Girls", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/03-house_of_balloons_glass_table_girls.flac" },
@@ -421,7 +421,7 @@ tracks: [
 { name: "08. Loft Music                           ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/08-loft_music.flac" },
 { name: "09. The Knowing                          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/09-the_knowing.flac" },
 { name: "10. Twenty Eight                         ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/10-twenty_eight.flac" },
-{ name: " - Disc 02 - ", src: "" },
+{ name: "    >  Disc 02  <", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/assets/beep.wav" },
 { name: "01. Lonely Star        ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/11-lonely_star.flac" },
 { name: "02. Life Of The Party  ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/12-life_of_the_party.flac" },
 { name: "03. Thursday           ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/13-thursday.flac" },
@@ -432,7 +432,7 @@ tracks: [
 { name: "08. Rolling Stone      ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/18-rolling_stone.flac" },
 { name: "09. Heaven Or Las Vegas", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/19-heaven_or_las_vegas.flac" },
 { name: "10. Valerie            ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/20-valerie.flac" },
-{ name: " - Disc 03 - ", src: "" },
+{ name: "    >  Disc 03  <", src: "https://raw.githubusercontent.com/lakshkukreja/lakshkukreja.github.io/main/assets/beep.wav" },
 { name: "01. D.D.                          ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/21-dd.flac" },
 { name: "02. Montreal                      ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/22-montreal.flac" },
 { name: "03. Outside                       ", src: "https://raw.githubusercontent.com/lakshkukreja/audioverse/main/music/artists/the_weeknd/trilogy/23-outside.flac" },
@@ -595,11 +595,16 @@ label: " © 2024 Universal Music India Pvt. Ltd."
             albumItem.innerHTML = `
                 <img src="${album.cover}" alt="AlbumCover">
                 <h3>${album.name}</h3>
+                <boldp>Artist:</boldp>
                 <p>${album.artist}</p>
-                <p>Release Date: ${album.releaseDate}</p>
-                <p>Quality: ${album.quality}</p>
-                <p>Tracks: ${album.tracks.length}</p>
-                <p>Label: ${album.label}</p>
+                <boldp>Release Date:</boldp>
+                <p>${album.releaseDate}</p>
+                <boldp>Quality:<bold/p>
+                <p>${album.quality}</p>
+                <boldp>Tracks:</boldp>
+                <p>${album.tracks.length}</p>
+                <boldp>Label:</boldp>
+                <p>${album.label}</p>
             `;
             albumItem.addEventListener('click', () => {
                 displayTracks(album);
